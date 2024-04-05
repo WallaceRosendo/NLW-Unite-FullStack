@@ -1,21 +1,21 @@
 let participantes = [
   {
-    nome: "Wallace Araujo",
+    nome: "Wallace Rosendo",
     email: "wallace@email.com",
     dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckin: new Date(2024, 2, 23, 22, 20),
+    dataCheckin: null
   },
   {
     nome: "Diego Fernandes",
     email: "diego@email.com",
     dataInscricao: new Date(2024, 2, 1, 19, 23),
-    dataCheckin: null
+    dataCheckin: new Date(2024, 2, 2, 20, 20)
   },
   {
     nome: "Mayk Brito",
     email: "mayk@email.com",
     dataInscricao: new Date(2024, 2, 23, 19, 23),
-    dataCheckin: null
+    dataCheckin: new Date(2024, 1, 3, 20, 20)
   },
   {
     nome: "Ana Souza",
