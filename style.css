@@ -50,7 +50,7 @@ fieldset > div {
     border: var(--border);
     border-radius: 10px;
     font: 400 14px/150% 'Roboto', sans-serif;
-    color: #c4c4cc;
+    color: #ffffff;
     padding: 8px 12px;
 }
 
@@ -60,7 +60,7 @@ input {
 
 fieldset legend, section h2 {
     font: 700 16px/140% 'Roboto', sans-serif;
-    color: #e1e1e6;
+    color: #ffffff;
     padding-bottom: 16px;
 }
 
@@ -68,14 +68,15 @@ fieldset button {
     width: fit-content;
     border: 0;
     border-radius: 10px;
-    background: #f48f56;
+    background: #5fcde4;
     padding: 7px 20px;
     font: 700 12px/24px 'Roboto', sans-serif;
-    color: #00292e;
+    color: #272727;
 }
 
 fieldset button:hover {
-    background: #f37c37;
+    background: #52b1c4;
+    cursor: pointer;
 }
 
 .lista-participantes {
@@ -121,7 +122,7 @@ tbody td small {
 
 tbody td button {
     all: unset;
-    color: #9ff9cc;
+    color: #5fcde4;
 }
 
 tbody td button:hover {
