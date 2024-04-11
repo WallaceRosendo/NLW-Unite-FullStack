@@ -84,7 +84,7 @@ body {
 .container {
     max-width: 720px;
     margin: 0 auto;
-    padding: 32px;
+    padding: 24px;
     background-color: var(--bg-color);
     box-shadow: 5px 0 10px #00000033, -5px 0 10px #00000033;    
 }
@@ -198,4 +198,29 @@ tbody td button {
 tbody td button:hover {
     text-decoration: underline;
     cursor: pointer;
+}
+ 
+.icones {
+    height: 32px;
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
+
+.linkedin {
+    height: 32px;
+    width: 32px;
+    margin: 0 5px;
+}
+
+.git {
+    height: 32px;
+    width: 32px;
+    margin: 0 5px;
+}
+
+.email {
+    height: 32px;
+    width: 32px;
+    margin: 0 5px;
 }
