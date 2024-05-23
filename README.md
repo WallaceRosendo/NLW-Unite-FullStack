@@ -39,4 +39,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ------
 Credit: [Wallace Rosendo](https://github.com/WallaceRosendo)
 
-<h6>Updated on: 11/04/2024</h6>
+<h6>Updated on: 23/05/2024</h6>
