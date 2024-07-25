@@ -1,15 +1,9 @@
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo.png" width="200px" />
+  <img alt="Logo NLW Expert - Rocketseat" src="https://raw.githubusercontent.com/rocketseat-education/nlw-unite-html-css-js/5d2030b901e757353f1548c293fb43930e7026d7/.github/logo.png" width="200px" />
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+Aplicação desenvolvida no NLW Unite da Rocketseat na trilha FullStack.
 </p>
 
 <p align="center">
@@ -18,8 +12,12 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 
 <br>
 
+## 💻 Preview
+
+Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in para eventos presenciais.
+
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="https://raw.githubusercontent.com/rocketseat-education/nlw-unite-html-css-js/5d2030b901e757353f1548c293fb43930e7026d7/.github/preview.png" width="60%">
 </p>
 
 
@@ -27,10 +25,18 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5<br><br>
+<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3<br><br>
+<img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 
-## Projeto
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/wallacerosendo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wallace.silva37@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-Nesse projeto iremos desenvolver a versão simplificada de um sistema de check-in para eventos presenciais.
+------
+Credit: [Wallace Rosendo](https://github.com/WallaceRosendo)
+
+<h6>Updated on: 25/07/2024</h6>
