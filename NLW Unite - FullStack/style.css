@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color: #272727;
+    --text-color-alt: #a4a4b3;
+    --button-theme: #5fcde4;
+    --border: 1px solid #2727271a;
+    --bg-color: #ffffff;
+    --switch-bg-url: url(./assets/sun.svg);
+    --body-color: #f0f2f5;
+}
+
+.light {
+    --text-color: #ffffff;
+    --text-color-alt: #c4c4cc;
+    --border: 1px solid #ffffff1a;
+    --bg-color: #272727;
+    --switch-bg-url: url(./assets/moon.svg);
+    --body-color: #1d1d1d;
+}
+
+#theme-toggle {
+    margin-left: auto;
+    position: relative;
+    float: right;
+    padding: 16px 0;
+    height: 32px;
+}
+
+#theme-toggle button {
+    transform: translateY(-50%);
+    border: 0;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    background: #5fcde4 var(--switch-bg-url) no-repeat center;
+    background-size: 75%;
+}
+
+#theme-toggle button:hover {
+    background-color: #52b1c4;
+}
+
+.title {
+    margin-left: 10px;
+}
+
+.wrap div:last-child {
+    margin-left: auto;
+}
+
+.icon {
+    border-radius: 32px;
+}
+
+#confirma-checkin {
+    color: #272727;
+    width: fit-content;
+    border: 0;
+    border-radius: 10px;
+    background: #5fcde4;
+    padding: 3px 10px;
+    font: 500 12px/140% 'Roboto', sans-serif;
+}
+
+#confirma-checkin:hover {
+    background-color: #52b1c4;
+}
+
+body, table, input, button {
+    font: 300 16px/140% 'Roboto', sans-serif;
+}
+
+body {
+    background-color: var(--body-color);
+    color: var(--text-color);
+}
+
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px;
+    background-color: var(--bg-color);
+    box-shadow: 5px 0 10px #00000033, -5px 0 10px #00000033;    
+}
+
+header {
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+}
+
+form {
+    border: var(--border);
+    border-inline: none;
+    padding: 20px 0;
+}
+
+fieldset {
+    border: none;
+}
+
+fieldset > div {
+    display: flex;
+    gap: 12px;
+}
+
+.input-wrapper {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border: var(--border);
+    border-radius: 32px;
+    font: 400 14px/150% 'Roboto', sans-serif;
+    color: var(--text-color);
+    padding: 5px 10px;
+    background-color: var(--body-color);
+}
+
+input {
+    all: unset;
+}
+
+fieldset legend, section h2 {
+    font: 700 16px/140% 'Roboto', sans-serif;
+    color: var(--text-color);
+    padding-bottom: 16px;
+}
+
+fieldset button {
+    width: fit-content;
+    border: 0;
+    border-radius: 32px;
+    background: #5fcde4;
+    padding: 7px 20px;
+    font: 700 12px/24px 'Roboto', sans-serif;
+    color: #272727;
+}
+
+fieldset button:hover {
+    background: #52b1c4;
+    cursor: pointer;
+}
+
+.lista-participantes {
+    padding: 20px 0;
+}
+
+.lista-participantes > div {
+    border: var(--border);
+    border-radius: 8px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table thead {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+thead th, tbody td {
+    padding: 12px 12px;
+}
+
+tbody td {
+    border-top: var(--border);
+    font: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: var(--text-color-alt);
+}
+
+tbody td strong {
+    color: var(--text-color);
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 600;
+}
+
+tbody td small {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+tbody td button {
+    all: unset;
+    color: #5fcde4;
+}
+
+tbody td button:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+ 
+.icones {
+    height: 32px;
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
+
+.linkedin {
+    height: 32px;
+    width: 32px;
+    margin: 0 5px;
+}
+
+.git {
+    height: 32px;
+    width: 32px;
+    margin: 0 5px;
+}
+
+.email {
+    height: 32px;
+    width: 32px;
+    margin: 0 5px;
+}
