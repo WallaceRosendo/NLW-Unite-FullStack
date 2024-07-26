@@ -25,11 +25,9 @@ Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5<br><br>
-<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3<br><br>
-<img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-  ##
+##
  
 <div> 
   <a href="https://www.linkedin.com/in/wallacerosendo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -39,4 +37,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ------
 Credit: [Wallace Rosendo](https://github.com/WallaceRosendo)
 
-<h6>Updated on: 25/07/2024</h6>
+<h6>Updated on: 26/07/2024</h6>
